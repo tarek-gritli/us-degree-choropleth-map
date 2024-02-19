@@ -7,14 +7,15 @@ This project is a data visualization of educational attainment in the United Sta
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
+- [Demo](#demo)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Features
 
-- Display temperature data on a heatmap
-- Customize the color scale for temperature visualization
-- Interactive tooltips to show detailed temperature information
+- Display educational attainment data on a choropleth map
+- Customize the color scale for visualization
+- Interactive tooltips to show detailed information about educational attainment
 
 ## Technologies Used
 
@@ -25,9 +26,13 @@ This project is a data visualization of educational attainment in the United Sta
 
 ## Installation
 
-1. Clone the repository: `https://github.com/tarek-gritli/us-degree-choropleth-map.git`
+1. Clone the repository: `git clone https://github.com/tarek-gritli/us-degree-choropleth-map.git`
 2. Navigate to the project directory: `cd temperature-heat-map`
 3. Install dependencies: `npm install`
+
+## Demo
+
+You can see a live demo of the project [here](https://us-degree-choropleth-map-d3.netlify.app/).
 
 ## Usage
 
